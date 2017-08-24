@@ -1,0 +1,1 @@
+robocopy D:\TEST D:\TEST2 * /Z /mir /mon:1
